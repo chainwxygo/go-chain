@@ -5,4 +5,7 @@ Go-based library for interacting with blockchain networks. It simplifies smart c
 ## Features
 
 - Smart Contract Interaction:
+  - Read/write methods for Ethereum smart contracts.
+- Transaction Builder:
+ 
 
