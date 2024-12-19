@@ -4,5 +4,5 @@ Go-based library for interacting with blockchain networks. It simplifies smart c
 
 ## Features
 
--Smart Contract Interaction:
+- Smart Contract Interaction:
 
