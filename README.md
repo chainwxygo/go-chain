@@ -24,7 +24,28 @@ go get github.com/your-username/playgrounds-go
 
 ## Usage
 
-1. Initialize a Blockchain Client
+### 1. Initialize a Blockchain Client
+
+Connect to an Ethereum client (e.g., Infura, Alchemy, or a local node):
+
+
+```bash
+import (
+    "log"
+
+    "github.com/ethereum/go-ethereum/ethclient"
+)
+
+func main() {
+    client, err := ethclient.Dial("https://mainnet.infura.io/v3/YOUR_INFURA_KEY")
+    if err != nil {
+        log.Fatalf("Failed to connect to Ethereum client: %v", err)
+    }
+    // Use the client for contract interaction, transactions, etc.
+}
+```
+
+
 
 
  
