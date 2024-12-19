@@ -2,7 +2,7 @@
 
 Go-based library for interacting with blockchain networks. It simplifies smart contract interactions, transaction building, event listening, and account management, primarily for Ethereum and Ethereum-compatible networks.
 
-## Features
+### Features
 
 - Smart Contract Interaction:
   - Read/write methods for Ethereum smart contracts.
@@ -15,12 +15,14 @@ Go-based library for interacting with blockchain networks. It simplifies smart c
 - Extendable:
     - Can be adapted for other EVM-compatible networks like Binance Smart Chain, Polygon, etc.
 
- ## Installation
+ ### Installation
 To install the library, use:
 
 ```bash
 go get github.com/your-username/playgrounds-go
 ```
+
+Usage
 
  
 
