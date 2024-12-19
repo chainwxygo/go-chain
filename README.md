@@ -22,7 +22,10 @@ To install the library, use:
 go get github.com/your-username/playgrounds-go
 ```
 
-Usage
+## Usage
+
+1. Initialize a Blockchain Client
+
 
  
 
