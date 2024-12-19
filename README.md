@@ -7,5 +7,12 @@ Go-based library for interacting with blockchain networks. It simplifies smart c
 - Smart Contract Interaction:
   - Read/write methods for Ethereum smart contracts.
 - Transaction Builder:
+  - Build, sign, and send transactions.
+- Event Listener:
+  - Subscribe and listen to blockchain events in real-time.
+- Account Management:
+   - Generate, manage, and use wallets and private keys.
+- Extendable:
+    - Can be adapted for other EVM-compatible networks like Binance Smart Chain, Polygon, etc.
  
 
